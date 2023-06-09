@@ -1,7 +1,9 @@
 # Gannt-Chart-UI
 <br>
 <br>
+
 ![image](https://github.com/atenbensel/Gannt-Chart-UI/assets/89222426/545cc563-d97b-468d-8404-4da6b44addec)
+
 <br>
 
 This repository contains code for a Gantt Chart user interface (UI). The Gantt Chart UI allows users to plan their time at a bird's eye view. The UI is built using HTML and CSS.
