@@ -21,7 +21,7 @@ To use the Gantt Chart UI, simply copy the HTML and CSS code provided in the rep
 <br>The Gantt Chart UI consists of a canvas that displays the Gantt Chart. The chart is divided into months, and projects are represented as bars on the chart.
 <br>
 
-# To use the Gantt Chart UI, follow these steps:
+# To use the Gantt Chart UI, follow these steps: 
 
 <br>
 1. Include the HTML and CSS code in your project. <br>
